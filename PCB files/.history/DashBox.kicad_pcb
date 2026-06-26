@@ -18646,7 +18646,7 @@
 		(uuid "9587d6c9-c222-4204-b825-b057bde59295")
 	)
 	(gr_text "Cross"
-		(at 139.4 100.9 0)
+		(at 139.5 100.7 0)
 		(layer "F.Cu")
 		(uuid "e1055c84-d2c3-4a97-8bfa-fc71a21f4531")
 		(effects
